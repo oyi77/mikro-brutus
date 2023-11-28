@@ -1,0 +1,4 @@
+pycryptodomex
+donna25519
+pynacl
+colorama
