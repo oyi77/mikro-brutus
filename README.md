@@ -8,6 +8,12 @@ Luckily [Margin Research](https://margin.re/2022/06/pulling-mikrotik-into-the-li
 
 This was written in about 10 minutes, and only to prove that MikroTik hasn't implemented any protections on the web interface.
 
+## DEMO
+
+Below is **Mikro-Brutus** in Action :
+
+![Demo Animation](Mikro-Brutus.gif)
+
 ## Example Usage
 
 ```sh
